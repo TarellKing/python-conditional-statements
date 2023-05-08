@@ -1,4 +1,4 @@
-# Adventure Game Tarell King on line 1
+# Adventure Game Tarell King
 print("You are lost underground in a maze of tunnels")
 import random
 dangerTunnel = random.randint(1,4)
